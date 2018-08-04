@@ -1,0 +1,19 @@
+body{
+
+background-image: url(nikita-kachanovsky-445394-unsplash.jpg);
+background-size: cover;
+}
+
+.title{
+	display:flex;
+	justify-content: center;
+	color:white
+}
+.button1{
+	display: flex;
+	align-items: center;
+}
+ .btn-dark{
+ 	opacity: 0.5;
+ 	align-items: center;
+ }
